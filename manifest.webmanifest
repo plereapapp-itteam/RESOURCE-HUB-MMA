@@ -1,0 +1,17 @@
+{
+  "name": "PINAGPALA Resource Hub",
+  "short_name": "PINAGPALA",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#08152e",
+  "theme_color": "#101d41",
+  "icons": [
+    {
+      "src": "/logos/pinagpala.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
